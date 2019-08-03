@@ -20,6 +20,14 @@
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\sat.HTML">features & placementdesk</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML">transport</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML">Downloads</A>
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\Alenora.HTML">lenora</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML">collage</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML">fauculty</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\satish.HTMl">Infrastructure</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\star.HTML">administration</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\sat.HTML">features & placementdesk</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML">transport</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML">Downloads</A>
 </td>
 <td valign="top" width="20%">
 <p align="right">
